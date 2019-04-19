@@ -1,0 +1,6 @@
+{
+    "pages": [
+        "pages/weather/weather",
+        "pages/diary/diary"
+    ]
+}

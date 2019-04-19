@@ -1,0 +1,5 @@
+{
+    "usingComponents": {
+        "cusicon": "../../components/icon/icon"
+    }
+}

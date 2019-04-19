@@ -1,0 +1,5 @@
+<view id='weather'>
+    <cusicon type="iconyin" >
+    </cusicon>
+    <cusicon type='icontedabaoyu'></cusicon>
+</view>
